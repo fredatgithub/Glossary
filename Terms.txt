@@ -1,1 +1,3 @@
 IT = Information Technology
+WUfB = Windows Update for Business
+Intune = Microsoft Endpoint Manager (also known as Intune) which is a mobile device management solutions
