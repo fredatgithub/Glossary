@@ -3,3 +3,5 @@ WUfB = Windows Update for Business
 Intune = Microsoft Endpoint Manager (also known as Intune) which is a mobile device management solutions
 AD = Active Directory
 SCRAM = PostgreSQL10 introduced SCRAM (Salted Challenge Response Authentication Mechanism) to securely authenticate passwords. 
+TLS = Transport Layer Security
+SSL = Secure Socket Layer
