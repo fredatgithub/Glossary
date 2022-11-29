@@ -6,3 +6,5 @@ SCRAM = PostgreSQL10 introduced SCRAM (Salted Challenge Response Authentication 
 TLS = Transport Layer Security
 SSL = Secure Socket Layer
 PBKDF2 = Password-based Key Derivation Function 2
+MAC = Message Authentication Code
+HMAC = In cryptography, an HMAC is a specific type of message authentication code (MAC) involving a cryptographic hash function and a secret cryptographic key.
