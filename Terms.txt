@@ -5,3 +5,4 @@ AD = Active Directory
 SCRAM = PostgreSQL10 introduced SCRAM (Salted Challenge Response Authentication Mechanism) to securely authenticate passwords. 
 TLS = Transport Layer Security
 SSL = Secure Socket Layer
+PBKDF2 = Password-based Key Derivation Function 2
